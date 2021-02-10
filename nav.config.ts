@@ -2,13 +2,13 @@ import { IConfig } from './src/types'
 
 const c: IConfig = {
   // [必填], 请填写您的仓库地址
-  gitRepoUrl: 'https://github.com/xjh22222228/nav',
+  gitRepoUrl: 'https://github.com/newbieandroid/nav',
 
   // 路由是否Hash模式, 如果是部署在github pages 务必设为 true
   hashMode: true,
 
   // 您的网站地址，这对于SEO很重要
-  homeUrl: 'https://nav3.cn',
+  homeUrl: 'https://www.178zyz.com',
 
   // 网站标题
   title: '发现导航 - 精选实用导航网站',
@@ -20,7 +20,7 @@ const c: IConfig = {
   keywords: '导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js',
 
   // 默认主题: Light | Sim | Side | App
-  theme: 'Light',
+  theme: 'Side',
 
   // 搜索引擎列表, 为空时不显示搜索引擎
   // 自定义引擎 icon 请使用网络图标
